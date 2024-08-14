@@ -8,13 +8,13 @@ Hi, I'm **Pavankumar Chandankar**, currently pursuing my Master's degree in Mech
 
 ## 🚀 Professional Experience
 
-- **Larsen and Toubro** (Oct 2023 - Present)  
+- **Larsen and Toubro**  
   Embedded Engineer - Graduate Engineer  
   - Developed embedded firmware in C++ and Embedded C for high-speed rail control systems, ensuring real-time communication and system reliability.
   - Automated IVI and ADAS testing using Python, executing HIL, MIL, SIL, and PIL methods for comprehensive automotive testing.
   - Inspected COTS hardware with Eplan P8, ensuring industry compliance and establishing CAN bus communication for a €7 billion rail project.
 
-- **Tata Hitachi** (Sep 2021 - Oct 2021)  
+- **Tata Hitachi**  
   Process Engineer - Intern  
   - Hands-on experience with optimized control algorithms for microcontrollers, SBCs, and robot controllers, focusing on PWM modulation and signal processing for precision control.
   - Optimized material handling equipment through simulations, implementing PID tuning and feedback control loops.
