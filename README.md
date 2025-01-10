@@ -9,9 +9,12 @@ Hi, I'm **Pavankumar Chandankar**, currently pursuing my Master's degree in Mech
 ## 🚀 Professional Experience
 
 - **Larsen and Toubro**  
-  Embedded Engineer - Graduate Engineer  
-  - Developed embedded firmware in C++ and Embedded C for high-speed rail control systems, ensuring real-time communication and system reliability.
-  - Automated IVI and ADAS testing using Python, executing HIL, MIL, SIL, and PIL methods for comprehensive automotive testing.
+  Embedded Engineer - Graduate Engineer
+  - Contributed to remote testing of Shinkansen-compatible rail control system firmware (C++/Embedded C) using dSPACE HIL and Vector CANoe, ensuring
+real-time performance and data integrity.
+  - Assisted in automating ADAS testing using python for emergency braking, obstacle detection, and train control automation.
+  - Supported development of test automation frameworks (Jenkins) and generated documentation for firmware performance and safety compliance (LDRA Testbed).
+  - Gained experience in embedded systems testing, test automation, and remote collaboration within a large-scale, safety-critical project (JIRA, Confluence).
   - Inspected COTS hardware with Eplan P8, ensuring industry compliance and establishing CAN bus communication for a €7 billion rail project.
 
 - **Tata Hitachi**  
@@ -20,6 +23,12 @@ Hi, I'm **Pavankumar Chandankar**, currently pursuing my Master's degree in Mech
   - Optimized material handling equipment through simulations, implementing PID tuning and feedback control loops.
 
 ## 🛠️ Projects
+
+- **[Vehicle Telemetry Mapping](#)**  
+  Developed an application to visualize real-time vehicle trace analysis, incorporating simulated diagnostics for error ticket creation. Utilized Python for data processing, mapping, and visualization.
+
+- **[Safety-Critical Automotive CAN Bus Anomaly Detection](#)**  
+  Developed safety-critical firmware for a simulated automotive CAN bus network (CANoe) with sensor applications, adhering to J1939. Implemented a ML based anomaly detection system to enhance real-time fault tolerance
 
 - **[Human Activity Recognition](#)**  
   Developed a novel approach using the WEAR dataset to Human Activity Recognition (HAR) using Dynamic Time Warping (DTW) for segmentation, DBA for data augmentation, and TCNs to capture long-range dependencies.
